@@ -12,8 +12,15 @@
 
 [App Schema](https://github.com/EZ80VEGA/email-site/blob/main/schema_app.js)
 
-**something**
 
-**something**
+**Backend for Web App**
 
-**something**
+[App Javascript](https://github.com/EZ80VEGA/email-site/blob/main/app.js)
+
+
+**Web App Layout**
+[App Layout](https://github.com/EZ80VEGA/email-site/blob/main/home.ejs)
+
+
+**Web App Styling**
+[App Styling](https://github.com/EZ80VEGA/email-site/blob/main/app.css)
