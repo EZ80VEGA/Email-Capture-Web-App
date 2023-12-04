@@ -3,7 +3,7 @@
 
 **something**
 
-**For the Database**
+**Creating the Database**
 
 [MySql Schema](https://github.com/EZ80VEGA/email-site/blob/main/schema.sql)
 
