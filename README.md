@@ -19,8 +19,10 @@
 
 
 **Web App Layout**
+
 [App Layout](https://github.com/EZ80VEGA/email-site/blob/main/home.ejs)
 
 
 **Web App Styling**
+
 [App Styling](https://github.com/EZ80VEGA/email-site/blob/main/app.css)
